@@ -1,0 +1,26 @@
+
+
+body {
+margin: 0;
+padding: 0;
+width: 100%;
+height: 100vh;
+background-color: black;
+
+}
+
+.Logo {
+
+  display: block;
+  padding-top: 1em;
+  margin: auto;
+  
+}
+
+.container {
+display: flex;
+justify-content: center;
+margin-top: 3em;
+}
+
+
